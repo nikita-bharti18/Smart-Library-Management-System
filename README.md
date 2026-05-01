@@ -84,8 +84,8 @@ java Main
 
 ## Author
 
-Rishi Soni
+Nikita Bharti
 ```
-rishi02soni
+nikita-bharti18
 ```
 Passionate about Java, AI & building impactful projects
